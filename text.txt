@@ -1,0 +1,5 @@
+working directory -> stagging area -> local repo. -> romote repo
+test-project -> git add. -> git commit -> git push
+
+tracked
+untracked
